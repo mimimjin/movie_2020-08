@@ -5,6 +5,6 @@ import App from './App';
 
 /**jsx react에서만 쓰이는 개념 */
 ReactDOM.render(
-    <App />,document.getElementById('chobobang')
+    <App />,document.getElementById('movieapp')
 );
 
